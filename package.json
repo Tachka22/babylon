@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babylonjs": "^6.20.1",
+    "normalize.css": "^8.0.1"
+  }
+}
